@@ -12,6 +12,7 @@ This is actually an extra credit project for my Assembly Language course. This i
 </p>
 <h2>Game paly</h2>
 <p>
-  http://alan-huang.com/photo/project/mips.gif <br>
+  <img src="http://alan-huang.com/photo/project/mips.gif" alt="Game play">
+   <br>
 </p>
 
